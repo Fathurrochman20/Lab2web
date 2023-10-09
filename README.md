@@ -19,4 +19,19 @@
 # 5. Menambahkan CSS Selector
 ![image](https://github.com/Fathurrochman20/Lab2web/assets/135719593/f04702ed-7dff-4d5f-9645-6eb6a0795c6b)
 
-# Berikut Hasil percobaan Pengujian Validator pada Css Eksternal
+
+# PERTANYAAN DAN TUGAS
+
+1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini. 
+
+![image](https://github.com/Fathurrochman20/Lab2web/assets/135719593/77346106-214a-4fa3-9363-cdef51dd42f6)
+
+# • Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
+
+2. Kalau h1 menggunakan internal dan inline pada penggunaan style nya sedangkan intro menggunakan eksternal css style nya
+
+3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+
+# •Semuanya akan tampil tergantung penyebutnya contohnya pada gambar no 1
+
+4.Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( p id="paragraf-1" class="text-paragraf" )
