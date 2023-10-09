@@ -26,12 +26,12 @@
 
 ![image](https://github.com/Fathurrochman20/Lab2web/assets/135719593/77346106-214a-4fa3-9363-cdef51dd42f6)
 
-# • Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
+ • Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 
-2. Kalau h1 menggunakan internal dan inline pada penggunaan style nya sedangkan intro menggunakan eksternal css style nya
+2. Kalau h1 menggunakan internal dan inline pada penggunaan style nya sedangkan intro menggunakan eksternal css style ny  Apabila ada deklarasi CSS secara internal,  lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada    browser? Berikan penjelasan dan contohnya!
 
-3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+• Semuanya akan tampil tergantung penyebutnya contohnya pada gambar no 1
 
-# •Semuanya akan tampil tergantung penyebutnya contohnya pada gambar no 1
-
-4.Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( p id="paragraf-1" class="text-paragraf" )
+4.Pada sebuah elemen HTML terdapat ID dan Class, 
+apabila masing-masing selector tersebut terdapat deklarasi CSS, 
+maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( p id="paragraf-1" class="text-paragraf" )
